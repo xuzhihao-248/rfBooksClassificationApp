@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Trained model files (regenerate on server)
+models/
+
+# Test cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
